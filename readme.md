@@ -5,5 +5,5 @@
 </div>
 
 - Analista de TI - Grupo Arcel
-- Estudando Python, AWS e Observabilidade.
+- Estudando DevOps.
 - lucas.limasv@outlook.com.br
